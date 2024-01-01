@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountPointDistance</string>
+    <string name="light_url">https://worldlab.technolog.edu.ru/stud/group6/lab5new.html</string>
+    <string name="dark_url">https://worldlab.technolog.edu.ru/stud/group6/lab5_darknew.html</string>
+</resources>
